@@ -24,9 +24,37 @@
 # Top-level page
 - url: /intro
   not_numbered: true
+  
+- divider: true
 
-# External link
+- header: Содржина
+
+- title: Part 1
+  url: /01/subsection/notebook1
+  not_numbered: true
+
+- title: Part 2
+  url: /01/subsection/notebook2
+  not_numbered: true
+     
+- title: Part 3
+  url: /01/subsection/notebook3
+  not_numbered: true  
+  
+- title: Part 4
+  url: /01/subsection/notebook4
+  not_numbered: true
+  
+- title: Part 5
+  url: /01/subsection/notebook5
+  not_numbered: true
+  
+- divider: true
+
+- header: Линкови
+
 - title: GitHub repository
   url: https://github.com/zelenkastiot/COVID-19_book
   external: true
   not_numbered: true
+  
