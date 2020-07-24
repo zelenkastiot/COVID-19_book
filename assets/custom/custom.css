@@ -30,6 +30,10 @@ div.top-navbar {
    padding: 12px 12px 0 70px;
 }	
 
+.js-show-sidebar .c-textbook__page, .js-show-sidebar .c-topbar{
+   left: 10px;
+}
+
 .c-textbook__page {
     left: 50px;
 }
