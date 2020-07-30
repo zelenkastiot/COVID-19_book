@@ -29,12 +29,10 @@
 
 - header: Содржина
 
-- title: Part 1
-  url: /01/subsection/notebook1
+- url: /01/subsection/notebook1
   not_numbered: true
 
-- title: Part 2
-  url: /01/subsection/notebook2
+- url: /01/subsection/notebook2
   not_numbered: true
      
 - title: Part 3
