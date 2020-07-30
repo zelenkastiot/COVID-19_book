@@ -1,6 +1,6 @@
 # Биокибернетика проект
 **Летен семестар, 2020** <br> <br>
-[![Binder](https://github.com/zelenkastiot/binder_badges/blob/master/badges/covid19book-badge.svg)](https://mybinder.org/v2/gh/zelenkastiot/COVID-19_book/master)
+[![Binder](https://github.com/zelenkastiot/binder_badges/blob/master/badges/covid19book-badge.svg)](https://mybinder.org/v2/gh/zelenkastiot/COVID-19_book/master?filepath=content)
 
 
 **Ментор**: Акад. Љупчо Коцарев <br>
