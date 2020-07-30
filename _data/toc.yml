@@ -29,23 +29,17 @@
 
 - header: Содржина
 
-- url: /01/subsection/notebook1
+- url: /01_equations/1_equations
   not_numbered: true
 
-- url: /01/subsection/notebook2
+- url: /02_codingSIR/2_scenario
   not_numbered: true
-     
-- title: Part 3
-  url: /01/subsection/notebook3
-  not_numbered: true  
+  expand_sections: true
+  sections:
+   - url: /02_codingSIR/subsection/2_1_D
+   - url: /02_codingSIR/subsection/2_2_gamma
+   - url: /02_codingSIR/subsection/2_3_beta 
   
-- title: Part 4
-  url: /01/subsection/notebook4
-  not_numbered: true
-  
-- title: Part 5
-  url: /01/subsection/notebook5
-  not_numbered: true
   
 - divider: true
 
