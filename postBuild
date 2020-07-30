@@ -1,4 +1,3 @@
 # Enable jupyterlab text
-jupyter nbextension install jupytext 
-jupyter nbextension enable jupytext 
+jupyter nbextension install -py jupytext 
 jupyter lab build
