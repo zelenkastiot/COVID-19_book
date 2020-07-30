@@ -1,5 +1,5 @@
 # Биокибернетика проект
-*Летен семестар, 2020*
+*Летен семестар, 2020* <br>
 [![Binder](https://github.com/zelenkastiot/binder_badges/blob/master/badges/covid19book-badge.svg)](https://mybinder.org/v2/gh/zelenkastiot/COVID-19_book/binder_branch)
 
 
