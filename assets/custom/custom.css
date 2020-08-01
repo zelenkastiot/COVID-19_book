@@ -38,21 +38,16 @@ aside.sidebar__right{
     visibility: hidden !important;
 }
 
-.c-topbar{
-	top:30px;
-	left:0px
-}
 
-
-.hamburger-box{
-	bottom: 35px;
+div.buttons{
+	margin-top:35px;
+	margin-bottom: 25px;
 }
 
 .hamburger-box:after {
-    content: "Colapse sidebar";
+	font-weight:bold;
+    content: "Toggle Sidebar";
     display: inline-block;
-    background: url(separador.png) center center no-repeat;
-    height: 10px;
     width: 170px;
     padding-left: 35px;
     background-color: white;
@@ -62,6 +57,7 @@ aside.sidebar__right{
     max-width: 1000px !important;
     width:110% !important;
 	margin-left: 30px;
+	margin-top:15px
 }
 
 a:visited {
