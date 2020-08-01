@@ -45,10 +45,10 @@ div.buttons{
 }
 
 .hamburger-box:after {
-	font-weight:bold;
-    content: "Toggle Sidebar";
+    font-weight:bold;
+    content: "Сокриј содржина";
     display: inline-block;
-    width: 170px;
+    width: 180px;
     padding-left: 35px;
     background-color: white;
 }
@@ -56,8 +56,8 @@ div.buttons{
 .c-textbook__content{
     max-width: 1000px !important;
     width:110% !important;
-	margin-left: 30px;
-	margin-top:15px
+    margin-left: 45px;
+    margin-top:15px
 }
 
 a:visited {
