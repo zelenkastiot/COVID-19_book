@@ -5,3 +5,12 @@
 
 **Ментор**: Акад. Љупчо Коцарев <br>
 **Тема**: Репродусибилна Jupyter книга за кратко истражување повразно со параметрите на SIR модел, нивното меѓусебно влијанието претставено со интерактивни графици. 
+
+
+<br>
+
+<hr>
+<p align="center">
+<img src="https://github.com/zelenkastiot/images/blob/master/image_thumb-15.png" style="width:20px;"></img> <br>
+Пролет, 2020
+</p>
