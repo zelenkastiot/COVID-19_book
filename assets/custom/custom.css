@@ -15,11 +15,12 @@ body {
 
 .c-textbook__sidebar {
 /* 	left: 7vh; */
-	background-color: rgb(201, 231, 255);
+	background-color: rgb(240, 240, 275);
 }
 
 .c-page__nav__prev, .c-page__nav__next {
 	border: 1px solid rgb(230,236,241);
+	background-color: rgb(240, 240, 275);
 }
 
 .c-textbook__footer {
@@ -37,10 +38,36 @@ aside.sidebar__right{
     visibility: hidden !important;
 }
 
+.c-topbar{
+	top:30px;
+	left:0px
+}
+
+
+.hamburger-box{
+	bottom: 35px;
+}
+
+.hamburger-box:after {
+    content: "Colapse sidebar";
+    display: inline-block;
+    background: url(separador.png) center center no-repeat;
+    height: 10px;
+    width: 170px;
+    padding-left: 35px;
+    background-color: white;
+}
+
 .c-textbook__content{
     max-width: 1000px !important;
     width:110% !important;
 	margin-left: 30px;
 }
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
 
 
