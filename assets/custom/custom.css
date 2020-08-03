@@ -24,8 +24,8 @@ body {
 }
 
 .c-textbook__footer {
-	margin-left: 175px;
-	width: 1100px;
+	margin-left: 15%;
+	width: 95%;
 }
 
 aside.sidebar__right{
@@ -39,24 +39,24 @@ aside.sidebar__right{
 }
 
 div.buttons{
-	margin-top:35px;
-	margin-bottom: 25px;
+	margin-top:2em;
+	margin-bottom: 2em;
 }
 
 .hamburger-box:after {
     font-weight:bold;
     content: "Сокриј содржина";
     display: inline-block;
-    width: 180px;
-    padding-left: 35px;
+    width:  600%;
+    padding-left: 2em;
     background-color: white;
 }
 
 .c-textbook__content{
     max-width: 1000px !important;
     width:110% !important;
-    margin-left: 45px;
-    margin-top:15px
+    margin-left: 5%;
+    margin-top: 1%
 }
 
 a:visited {
