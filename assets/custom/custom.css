@@ -39,8 +39,10 @@ aside.sidebar__right{
 }
 
 div.buttons{
-	margin-top:2em;
-	margin-bottom: 2em;
+	margin-top:0.2em;
+	margin-left: 6.5%;
+	width: 110%
+
 }
 
 .hamburger-box:after {
@@ -56,7 +58,7 @@ div.buttons{
     max-width: 1000px !important;
     width:110% !important;
     margin-left: 5%;
-    margin-top: 1%
+    margin-top: 4%
 }
 
 a:visited {
