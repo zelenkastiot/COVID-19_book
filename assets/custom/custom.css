@@ -61,10 +61,12 @@ div.buttons{
     margin-top: 4%
 }
 
-a:visited {
+a.c-page__nav__next, a.c-page__nav__prev {
     color: black;
     text-decoration: none;
 }
+
+
 
 
 
