@@ -39,8 +39,14 @@
    - url: /02_codingSIR/subsection/2_1_D
    - url: /02_codingSIR/subsection/2_2_gamma
    - url: /02_codingSIR/subsection/2_3_beta 
-  
-  
+   
+- url: /03_beyondSIR/3_states
+  not_numbered: true
+  expand_sections: true
+  sections:
+   - url: /03_beyondSIR/subsection/3_1
+   - url: /03_beyondSIR/subsection/3_2
+
 - divider: true
 
 - header: Линкови
