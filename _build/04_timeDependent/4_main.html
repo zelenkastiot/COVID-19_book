@@ -1,0 +1,54 @@
+---
+redirect_from:
+  - "/04-timedependent/4-main"
+title: |-
+  Временски зависни променливи
+pagenum: 9
+prev_page:
+  url: /03_beyondSIR/subsection/3_2.html
+next_page:
+  url: /04_timeDependent/subsection/4_1_quarantine.html
+suffix: .md
+search: t d r s e beta gamma n frac cdot delta alpha fatality rate rho
+
+comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
+---
+
+    <main class="jupyter-page">
+    <div id="page-info"><div id="page-title">Временски зависни променливи</div>
+</div>
+    <div class="jb_cell">
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<hr>
+<p>Моменталната (проширена) листа од параметри кои ги користевме до сега:</p>
+<ul>
+<li>$N$<strong>:</strong> вкупна популација </li>
+<li>$S(t)$<strong>:</strong> број на подлежни луѓе на ден $t$</li>
+<li>$E(t)$<strong>:</strong> број на изложени луѓе на ден $t$</li>
+<li>$I(t)$<strong>:</strong> број на инфицирани луѓе на ден $t$</li>
+<li>$R(t)$<strong>:</strong> број на оздравени луѓе на ден $t$  </li>
+<li>$D(t)$<strong>:</strong> број на починати луѓе на ден $t$</li>
+<li>$\beta$<strong>:</strong> очекуваниот број на луѓе на кои заразена личност ја пренесува болеста</li>
+<li>$D$<strong>:</strong> бројот на денови што личноста ја чува во себе и може да ја шири болеста</li>
+<li>$\gamma$<strong>:</strong> дел од заразени личности што заздравуваат на ден ($\gamma= \frac{1}{D}$)</li>
+<li>$R_{0}$<strong>:</strong> вкупниот број на луѓе кој една личност заразува ($R_{0}=\beta \cdot D$)</li>
+<li>$\delta$<strong>:</strong> времетраење на инкубациски период </li>
+<li>$\alpha$<strong>:</strong> стапка на смртност (дел од заразените што починуваат, се среќава  во литература како fatality rate)</li>
+<li>$\rho$<strong>:</strong> стапката на денови за еден заразен да почине (=1/денови од заразен до смрт)</li>
+</ul>
+<p>Како што може да видиме од тоа до сега што моделиравме само функциите односно оделите ($S,E,I,R,D$) се менуваат преку време што е крајно нереалистично.</p>
+<p>Пример, најчесто вкупниот број на луѓе што една личност заразува има премала веројатност да биде константно. Истотака карантин и сите мерки што се превземаат како носење маски и рестрикција за движење во некои поголеми маркети го намалува бројот на заразени, каде до сега нашиот моментален модел не ги опфаќа.</p>
+<p>За да се дојде до "пореалистични" сценарија е нужно параметрите да ги направиме да се <strong>менуваат преку време</strong>.</p>
+
+</div>
+</div>
+</div>
+</div>
+
+ 
+
+
+    </main>
+    

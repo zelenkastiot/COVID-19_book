@@ -46,6 +46,15 @@
   sections:
    - url: /03_beyondSIR/subsection/3_1
    - url: /03_beyondSIR/subsection/3_2
+   
+- url: /04_timeDependent/4_main
+  not_numbered: true
+  expand_sections: true
+  sections:
+   - url: /04_timeDependent/subsection/4_1_quarantine
+   - url: /04_timeDependent/subsection/4_2_r0
+   - url: /04_timeDependent/subsection/4_3_age
+   - url: /04_timeDependent/subsection/4_4_populations
 
 - divider: true
 
