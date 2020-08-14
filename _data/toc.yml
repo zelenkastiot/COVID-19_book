@@ -22,41 +22,53 @@
 # See the links below for an example.
 
 # Top-level page
+
 - url: /intro
   not_numbered: true
-  
+
 - divider: true
 
 - header: Содржина
-
+  
 - url: /01_equations/1_equations
-  not_numbered: true
+  not_numbered: false
 
 - url: /02_codingSIR/2_scenario
-  not_numbered: true
-  expand_sections: true
+  not_numbered: false
+  expand_sections: false
   sections:
    - url: /02_codingSIR/subsection/2_1_D
    - url: /02_codingSIR/subsection/2_2_gamma
    - url: /02_codingSIR/subsection/2_3_beta 
    
 - url: /03_beyondSIR/3_states
-  not_numbered: true
-  expand_sections: true
+  not_numbered: false
+  expand_sections: false
   sections:
    - url: /03_beyondSIR/subsection/3_1
    - url: /03_beyondSIR/subsection/3_2
    
 - url: /04_timeDependent/4_main
-  not_numbered: true
-  expand_sections: true
+  not_numbered: false
+  expand_sections: false
   sections:
    - url: /04_timeDependent/subsection/4_1_quarantine
    - url: /04_timeDependent/subsection/4_2_r0
    - url: /04_timeDependent/subsection/4_3_age
-   - url: /04_timeDependent/subsection/4_4_populations
+
+- url: /05_realWorldData/5_main
+  not_numbered: false
+  expand_sections: false
+  sections:
+   - url: /05_realWorldData/subsection/5_1
+   - url: /05_realWorldData/subsection/5_2
+   - url: /05_realWorldData/subsection/5_3
+
+- url: /conclusion
+  not_numbered: false
 
 - divider: true
+
 
 - header: Линкови
 
