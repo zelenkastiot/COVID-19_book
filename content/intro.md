@@ -22,12 +22,6 @@
 **Интерактивност:** Книгата содржи голем број на интерактивни графици кои ја користат *Python* библиотеката [Plotly](https://plotly.com/), каде може да се манипулираат исходите на кривите со променување на иницијалните вредности со помош на лизгачи, 
 мени со опции и временски зависни лизгачи. 
 
-<br> <br>
-Пример за интересна <a href="https://plotly.com/chart-studio-help/create-animations/">анимација</a> на фигура изработена во *Python*: 
-
-
-![life expectancy](GIF1.gif)
-
 
 **Репродусибилност:** Тетратките во книгата се комплетно <u>репродусибилни</u> во две инстанци: 
 - [Binder](https://gist.github.com/zelenkastiot/ca6f8dc92d1a9722a6e73dfb9ecd3265) (Linux container, [повеќе за Binder](https://blog.jupyter.org/mybinder-org-serves-two-million-launches-7543ae498a2a#:~:text=What%20is%20mybinder.org%3F,a%20collection%20of%20interactive%20notebooks.&text=All%20they%20have%20to%20do,without%20having%20to%20install%20anything.)) 
@@ -37,9 +31,3 @@
 
 
 **Транспаретност:** Ќелиите за код можат да се прошируваат при кликнување на "+", каде може да се следи кодот за секоја фигура, графикон. 
-
-
-<hr>
-<p align="center">
-<img src="https://raw.githubusercontent.com/zelenkastiot/images/master/image_thumb-15.png" style="width:520px;"></img> <br>
-</p>
