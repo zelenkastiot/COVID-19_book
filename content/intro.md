@@ -1,6 +1,5 @@
 # Вовед
-
-<br> **Летен семестар, 2020** <br> <br>
+**Летен семестар, 2020** <br> 
 - **Ментор:** Акад. Љупчо Коцарев <br> 
 - **Студенти:** Филип Карафилоски, Кирил Зеленковски <br>
 <br>
@@ -20,16 +19,6 @@
 
 Проектот нуди: <br>
 
-**Репродусибилност:** Тетратките во книгата се комплетно <u>репродусибилни</u> во две инстанци: 
-- [Binder](https://gist.github.com/zelenkastiot/ca6f8dc92d1a9722a6e73dfb9ecd3265) (Linux container, [повеќе за Binder](https://blog.jupyter.org/mybinder-org-serves-two-million-launches-7543ae498a2a#:~:text=What%20is%20mybinder.org%3F,a%20collection%20of%20interactive%20notebooks.&text=All%20they%20have%20to%20do,without%20having%20to%20install%20anything.)) 
-- [Google Colab](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d#:~:text=What%20is%20Google%20Colab%3F,TensorFlow%2C%20PyTorch%2C%20and%20OpenCV.) тетратка
-
-За *Google Colab* потребно е само gmail профил за *Binder* нема потреба од никакво поврзување. 
-
-
-**Транспаретност:** Ќелиите за код можат да се прошируваат при кликнување на "+", каде може да се следи кодот за секоја фигура, графикон. 
-
-
 **Интерактивност:** Книгата содржи голем број на интерактивни графици кои ја користат *Python* библиотеката [Plotly](https://plotly.com/), каде може да се манипулираат исходите на кривите со променување на иницијалните вредности со помош на лизгачи, 
 мени со опции и временски зависни лизгачи. 
 
@@ -40,8 +29,17 @@
 ![life expectancy](GIF1.gif)
 
 
+**Репродусибилност:** Тетратките во книгата се комплетно <u>репродусибилни</u> во две инстанци: 
+- [Binder](https://gist.github.com/zelenkastiot/ca6f8dc92d1a9722a6e73dfb9ecd3265) (Linux container, [повеќе за Binder](https://blog.jupyter.org/mybinder-org-serves-two-million-launches-7543ae498a2a#:~:text=What%20is%20mybinder.org%3F,a%20collection%20of%20interactive%20notebooks.&text=All%20they%20have%20to%20do,without%20having%20to%20install%20anything.)) 
+- [Google Colab](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d#:~:text=What%20is%20Google%20Colab%3F,TensorFlow%2C%20PyTorch%2C%20and%20OpenCV.) тетратка
+
+За *Google Colab* потребно е само gmail профил за *Binder* нема потреба од никакво поврзување. 
+
+
+**Транспаретност:** Ќелиите за код можат да се прошируваат при кликнување на "+", каде може да се следи кодот за секоја фигура, графикон. 
+
 
 <hr>
 <p align="center">
-<img src="https://raw.githubusercontent.com/zelenkastiot/images/master/image_thumb-15.png" style="width:20px;"></img> <br>
+<img src="https://raw.githubusercontent.com/zelenkastiot/images/master/image_thumb-15.png" style="width:520px;"></img> <br>
 </p>
