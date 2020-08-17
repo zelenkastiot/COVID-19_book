@@ -63,14 +63,19 @@
    - url: /05_realWorldData/subsection/5_1
    - url: /05_realWorldData/subsection/5_2
    - url: /05_realWorldData/subsection/5_3
+   - url: /05_realWorldData/subsection/5_4
 
-- url: /conclusion
-  not_numbered: false
 
 - divider: true
 
 
-- header: Линкови
+- header: Дополнителна ресурси
+
+- url: /bibs
+  not_numbered: true
+  
+- url: /intresting
+  not_numbered: true
 
 - title: GitHub repository
   url: https://github.com/zelenkastiot/COVID-19_book
