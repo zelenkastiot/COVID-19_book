@@ -1,7 +1,9 @@
 # Вовед
-
-[![Binder](https://github.com/zelenkastiot/binder_badges/blob/master/badges/covid19book-badge.svg)](https://mybinder.org/v2/gh/zelenkastiot/COVID-19_book/master?urlpath=lab/tree/content/)
+<p align="left">
+ [![Binder](https://raw.githubusercontent.com/zelenkastiot/binder_badges/b6c245586b19a37fabf2612ef06922f4d73672bf/badges/covid19book-badge.svg)](https://mybinder.org/v2/gh/zelenkastiot/COVID-19_book/master?urlpath=lab/tree/content/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CiiyvS2x_6rDYZqDF9ioTrFKxT7b5QRz?usp=sharing%2Fgithub%2Fzelenkastiot%2FCOVID-19_book%2Fblob%2Fmaster%2Fcontent%2F02_codingSIR%2F2_scenario.ipynb)
+
+</p>
 <br> **Летен семестар, 2020** <br> <br>
 - **Ментор:** Акад. Љупчо Коцарев <br> 
 - **Студенти:** Филип Карафилоски, Кирил Зеленковски <br>
@@ -29,6 +31,9 @@
 За *Google Colab* потребно е само gmail профил за *Binder* нема потреба од никакво поврзување. 
 
 
+**Транспаретност:** Ќелиите за код можат да се прошируваат при кликнување на "+", каде може да се следи кодот за секоја фигура, графикон. 
+
+
 **Интерактивност:** Книгата содржи голем број на интерактивни графици кои ја користат *Python* библиотеката [Plotly](https://plotly.com/), каде може да се манипулираат исходите на кривите со променување на иницијалните вредности со помош на лизгачи, 
 мени со опции и временски зависни лизгачи. 
 
@@ -39,11 +44,8 @@
 ![life expectancy](GIF1.gif)
 
 
-**Транспаретност:** Ќелиите за код можат да се прошируваат при кликнување на "+", каде може да се следи кодот за секоја фигура, графикон. 
-
-
 
 <hr>
 <p align="center">
-<img src="https://github.com/zelenkastiot/images/blob/master/image_thumb-15.png" style="width:20px;"></img> <br>
+<img src="https://raw.githubusercontent.com/zelenkastiot/images/master/image_thumb-15.png" style="width:20px;"></img> <br>
 </p>
