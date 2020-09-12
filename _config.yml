@@ -85,6 +85,10 @@ use_download_button: false               # If 'true', display a button to downlo
 download_button_text: Download                # The text that download buttons will contain
 download_page_header: Made with Jupyter Book                # A header that will be displayed at the top of and PDF-printed page
 
+use_toggle_code_button: true
+toggle_code_button_text: Toggle code
+
+
 #######################################################################################
 # Jupyter book extensions and additional features
 
