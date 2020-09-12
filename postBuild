@@ -1,2 +1,2 @@
 # Enable jupyterlab text
-jupyter lab build
+jupyter lab build --dev-build=False --minimize=False
