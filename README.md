@@ -14,6 +14,6 @@
 
 <hr>
 <p align="center">
-<img src="https://github.com/zelenkastiot/images/blob/master/image_thumb-15.png" style="width:20px;"></img> <br>
+<img src="https://raw.githubusercontent.com/zelenelez/images/master/image_thumb-15.png" style="width:20px;"></img> <br>
 Пролет, 2020
 </p>
