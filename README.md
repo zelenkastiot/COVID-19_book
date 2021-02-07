@@ -11,9 +11,9 @@
 
 
 <br>
-
 <hr>
 <p align="center">
-<img src="https://raw.githubusercontent.com/zelenelez/images/master/image_thumb-15.png" style="width:20px;"></img> <br>
-Пролет, 2020
+<img src="https://raw.githubusercontent.com/zelenelez/images/master/finki.jpg" width=70%;></img> <br>
+Spring, 2020
 </p>
+
