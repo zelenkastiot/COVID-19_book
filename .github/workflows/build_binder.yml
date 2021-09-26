@@ -1,8 +1,8 @@
 name: Binder
 on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '48 15 * * 5'
+  push:
+    branches:
+      - master  
              
 jobs:
   Create-MyBinderOrg-Cache:
