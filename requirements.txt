@@ -1,6 +1,6 @@
 # Requirements for the demo notebooks
 pandas==1.0.1
-numpy==1.18.4
+numpy==1.21.0
 folium
 matplotlib==3.2.0
 nbinteract==0.2.4
